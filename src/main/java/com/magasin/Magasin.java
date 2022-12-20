@@ -26,6 +26,7 @@ class Magasin {
             index++;
         }
 
+
 //        for (int i = 0; i < items.length; i++) {
 //            if (!items[i].name.equals("Comte")
 //                    && !items[i].name.equals("PassVipConcert")) {
