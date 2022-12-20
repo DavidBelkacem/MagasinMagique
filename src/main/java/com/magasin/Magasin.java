@@ -37,6 +37,7 @@ class Magasin {
             }
 
             if (!items[i].name.equals("Kryptonite")) {
+
                 items[i].sellIn = items[i].sellIn - 1;
             }
 
