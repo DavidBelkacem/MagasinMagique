@@ -27,6 +27,6 @@ public class PassVipConcert extends Item implements ItemToUpdate {
         else if(quality < 0){
             this.quality =0;
         }
-        return this;
+        return this ;
     }
 }
